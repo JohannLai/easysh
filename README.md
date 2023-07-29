@@ -16,7 +16,7 @@ npm i easysh -g
 ```sh
 # yum
 yum install easysh
-
+```
 
 # usage
 ```sh
